@@ -1,4 +1,4 @@
-FROM timinh/php-apache:8.2
+FROM timinh/php-apache:8.3
 
 RUN pecl install mongodb
 
